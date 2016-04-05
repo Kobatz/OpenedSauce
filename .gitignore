@@ -1,0 +1,21 @@
+#################
+## Filthy Sauce
+#################
+
+*.txt
+*.log
+*.prt
+*.vmx
+*.zip
+*.vtf
+*.mdl
+*.wav
+*.mp3
+*.mp4
+*.mpeg
+*.exe
+*.dll
+
+
+
+# DO NOT REMOVE THIS FILE!
